@@ -3,6 +3,7 @@
   <p>IT student in France interested in IT support, cybersecurity, and web development.</p>
 </div>
 
+
 <table>
   <tr>
     <td width="64%" valign="top">
@@ -10,7 +11,6 @@
       <p><strong><a href="https://github.com/WalkerTech15/SaintPierre-Weather">SaintPierre Weather</a></strong><br>A school weather project with forecasts, an interactive map, saved places, and offline support.</p>
       <p><strong><a href="https://github.com/WalkerTech15/Open-Browser">Open Browser</a></strong><br>An open-source browser project focused on privacy, performance, and user control.</p>
       <p><strong><a href="https://github.com/WalkerTech15/Local-Agent">Local Agent</a></strong><br>A personal project exploring a local AI assistant and privacy-aware workflows.</p>
-      <p><strong><a href="https://github.com/WalkerTech15/nhatminh-portfolio">My portfolio</a></strong><br>My IT support, cybersecurity, and web development projects.</p>
     </td>
     <td width="36%" valign="top">
       <h2>Programming languages</h2>
@@ -28,5 +28,6 @@
     </td>
   </tr>
 </table>
+
 
 <p align="center"><a href="https://github.com/WalkerTech15">GitHub</a> · <a href="https://www.youtube.com/@WalkerTech15">YouTube</a></p>
