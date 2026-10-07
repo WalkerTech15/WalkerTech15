@@ -8,15 +8,15 @@
 
 <table>
   <tr>
-    <td width="64%" valign="top">
+    <td width="60%" valign="top">
       <h2>✨ Featured projects</h2>
-      <table>
-        <tr><td>🌦️ <strong><a href="https://github.com/WalkerTech15/SaintPierre-Weather">SaintPierre Weather</a></strong><br><sub>A school weather project with forecasts, an interactive map, saved places, and offline support.</sub></td></tr>
-        <tr><td>🌐 <strong><a href="https://github.com/WalkerTech15/Open-Browser">Open Browser</a></strong><br><sub>An open-source browser project focused on privacy, performance, and user control.</sub></td></tr>
-        <tr><td>🤖 <strong><a href="https://github.com/WalkerTech15/Local-Agent">Local Agent</a></strong><br><sub>A personal project exploring a local AI assistant and privacy-aware workflows.</sub></td></tr>
-      </table>
+      <p><strong><a href="https://github.com/WalkerTech15/SaintPierre-Weather">🌦️ SaintPierre Weather</a></strong><br><sub>A school weather project with forecasts, an interactive map, saved places, and offline support.</sub></p>
+      <hr>
+      <p><strong><a href="https://github.com/WalkerTech15/Open-Browser">🌐 Open Browser</a></strong><br><sub>An open-source browser project focused on privacy, performance, and user control.</sub></p>
+      <hr>
+      <p><strong><a href="https://github.com/WalkerTech15/Local-Agent">🤖 Local Agent</a></strong><br><sub>A personal project exploring a local AI assistant and privacy-aware workflows.</sub></p>
     </td>
-    <td width="36%" valign="top">
+    <td width="40%" valign="top">
       <h2>💻 Programming languages</h2>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
