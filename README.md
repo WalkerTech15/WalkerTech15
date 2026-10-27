@@ -7,20 +7,19 @@
 <hr>
 
 <h2>🌟 Featured projects</h2>
-<p>A selection of projects I've worked on, from creative concepts to useful tools.</p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>CarterPCs — Interactive Portfolio Concept</h3>
       <a href="https://carterpcs-portfolio.vercel.app/"><img src="carterpcs-preview.png" alt="CarterPCs portfolio homepage" width="100%" /></a>
+      <h3>CarterPCs — Interactive Portfolio Concept</h3>
       <p>An independent fan-made portfolio inspired by CarterPCs' technology content. Not client work and not affiliated with CarterPCs.</p>
       <p><strong>React · TypeScript · Responsive design</strong></p>
       <p><a href="https://carterpcs-portfolio.vercel.app/">Live demo ↗</a> · <a href="https://github.com/WalkerTech15/CarterPCs-Creative-Concept">Source code ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>SaintPierre Weather</h3>
       <a href="https://saintpierre-weather-com.vercel.app/"><img src="weather-preview.png" alt="SaintPierre Weather dashboard showing the weather in Paris" width="100%" /></a>
+      <h3>SaintPierre Weather</h3>
       <p>A school weather project with forecasts, an interactive map, saved places, and offline support.</p>
       <p><strong>HTML · CSS · JavaScript</strong></p>
       <p><a href="https://saintpierre-weather-com.vercel.app/">Live demo ↗</a> · <a href="https://github.com/WalkerTech15/SaintPierre-Weather">Source code ↗</a></p>
@@ -32,13 +31,13 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="38%" valign="top">
       <h2>✨ Other projects</h2>
       <p><strong><a href="https://github.com/WalkerTech15/Open-Browser">🌐 Open Browser</a></strong><br><sub>An open-source browser project focused on privacy, performance, and user control.</sub></p>
       <hr>
       <p><strong><a href="https://github.com/WalkerTech15/Local-Agent">🤖 Local Agent</a></strong><br><sub>A personal project exploring a local AI assistant and privacy-aware workflows.</sub></p>
     </td>
-    <td width="40%" valign="top">
+    <td width="31%" valign="top">
       <h2>💻 Programming languages</h2>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -48,7 +47,8 @@
       <hr>
       <h2>🗣️ Spoken languages</h2>
       <p>Vietnamese · French · English</p>
-      <hr>
+    </td>
+    <td width="31%" valign="top">
       <h2>📚 Currently learning</h2>
       <p>Cybersecurity, Linux, networking, and deeper Python skills.</p>
     </td>
