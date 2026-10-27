@@ -13,7 +13,7 @@
     <td width="50%" valign="top">
       <a href="https://carterpcs-portfolio.vercel.app/"><img src="carterpcs-preview.png" alt="CarterPCs portfolio homepage" width="100%" /></a>
       <h3>CarterPCs — Interactive Portfolio Concept</h3>
-      <p>An independent fan-made portfolio inspired by CarterPCs' technology content. Not client work and not affiliated with CarterPCs.</p>
+      <p>Fan-made CarterPCs portfolio concept. Not client work or affiliated with CarterPCs.</p>
       <p><strong>React · TypeScript · Responsive design</strong></p>
       <p><a href="https://carterpcs-portfolio.vercel.app/">Live demo ↗</a> · <a href="https://github.com/WalkerTech15/CarterPCs-Creative-Concept">Source code ↗</a></p>
     </td>
