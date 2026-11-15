@@ -1,43 +1,42 @@
-<div align="center">
-  <h1>Hi, I'm Walker 👋</h1>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=640&height=42&lines=IT+support+%7C+Cybersecurity;Web+development+%7C+Networking;Learning+Python+and+Linux" alt="Typing animation: IT support, cybersecurity, web development, networking, Python and Linux" /></a>
-  <p>I’m building hands-on skills in cybersecurity, IT support, and web development, with a focus on Python, Linux, and networking.</p>
-</div>
+## Profile
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=walkertech15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F313319573%3Fu%3Dae3199af8a62a36e7d4b1b13fba3b91ffe55f943%26v%3D4" alt="walkertech15 hero visual" />
+</p>
 
-<hr>
+**Walker** · Frontend or full-stack engineer
 
+## About
 
-<h2>🌟 Featured projects</h2>
+> Cybersecurity &amp; IT Support | Web Development | Python, Linux &amp; Networking | France
 
+- 📍 Based in **France**
+- 👥 **44** followers · **26** following
+
+*Small, useful work over vague claims.*
+
+## Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+## Signals
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://carterpcs-portfolio.vercel.app/"><img src="carterpcs-preview.png" alt="CarterPCs portfolio homepage" width="100%" /></a>
-      <h3>CarterPCs — Interactive Portfolio Concept</h3>
-      <p>Fan-made CarterPCs portfolio concept. Not client work or affiliated with CarterPCs.</p>
-      <p><strong>React · TypeScript · Responsive design</strong></p>
-      <p><a href="https://carterpcs-portfolio.vercel.app/">Live demo ↗</a> · <a href="https://github.com/WalkerTech15/CarterPCs-Creative-Concept">Source code ↗</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://saintpierre-weather-com.vercel.app/"><img src="weather-preview.png" alt="SaintPierre Weather dashboard showing the weather in Paris" width="100%" /></a>
-      <h3>SaintPierre Weather</h3>
-      <p>A school weather project with forecasts, an interactive map, saved places, and offline support.</p>
-      <p><strong>HTML · CSS · JavaScript</strong></p>
-      <p><a href="https://saintpierre-weather-com.vercel.app/">Live demo ↗</a> · <a href="https://github.com/WalkerTech15/SaintPierre-Weather">Source code ↗</a></p>
-    </td>
-  </tr>
+<tr><td align="center"><b>9</b><br/><sub>repos</sub></td><td align="center"><b>4</b><br/><sub>stars</sub></td><td align="center"><b>396</b><br/><sub>contributions</sub></td></tr>
 </table>
 
+## Projects
 
-<hr>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=walkertech15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F313319573%3Fu%3Dae3199af8a62a36e7d4b1b13fba3b91ffe55f943%26v%3D4" alt="walkertech15 projects visual" />
+</p>
 
+## Contact
 
-<table>
-  <tr>
-    <td width="38%" valign="top">
-      <h2>✨ Other projects</h2>
-      <p><strong><a href="https://github.com/WalkerTech15/Open-Browser">🌐 Open Browser</a></strong><br><sub>An open-source browser project focused on privacy, performance, and user control.</sub></p>
-      <hr>
-      <p><strong><a href="https://github.com/WalkerTech15/Local-Agent">🤖 Local Agent</a></strong><br><sub>A personal project exploring a local AI assistant and privacy-aware workflows.</sub></p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=walkertech15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F313319573%3Fu%3Dae3199af8a62a36e7d4b1b13fba3b91ffe55f943%26v%3D4" alt="walkertech15 social visual" />
+</p>
+
+<a href="https://github.com/walkertech15">GitHub</a>
+
+<p align="center"><sub>Walker · <a href="https://www.gitskins.com/readme-generator?template=community-ashish-singh-chauhan-vfvk">Ashish Singh Chauhan</a> template by <a href="https://www.gitskins.com/creators/ashish11-cyber">@ashish11-cyber</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
